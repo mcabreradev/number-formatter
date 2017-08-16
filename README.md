@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/miguel4ngelc/number-formatter.svg?branch=master)](https://travis-ci.org/miguel4ngelc/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/miguel4ngelc/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/miguel4ngelc/number-formatter?branch=master)
 
 Number Formatter ;)
 =========
