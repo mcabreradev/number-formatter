@@ -1,0 +1,27 @@
+{
+  "name": "@miguel4ngelc/number-formatter",
+  "version": "1.0.0",
+  "description": "Number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel4ngelc/number-formatter.git"
+  },
+  "author": "Miguelangel Cabrera <mcabrera.dev@gmail.com> (https://miguel4ngelc.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguel4ngelc/number-formatter/issues"
+  },
+  "homepage": "https://github.com/miguel4ngelc/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
