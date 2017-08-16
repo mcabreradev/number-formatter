@@ -1,5 +1,5 @@
 {
-  "name": "@miguel4ngelc/number-formatter",
+  "name": "lo-que-sea-number-formatter",
   "version": "1.0.0",
   "description": "Number formatter",
   "main": "index.js",
