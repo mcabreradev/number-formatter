@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mcabreradev/number-formatter is built on the following main stack:
+
 - [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - [Chartio](https://chartio.com) – Business Intelligence
 - [New Relic](http://newrelic.com) – Performance Monitoring
@@ -68,11 +69,13 @@ mcabreradev/number-formatter is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mcabreradev/number-formatter is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/5/default_aa447805966bbb635af0d113e93e1f1030497052.jpg' alt='Segment'/> [Segment](https://segment.com/?utm_medium=paid-display&utm_source=stackshare&utm_campaign=analytics) – Analytics Integrator
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/103/default_193410db3a7e419c7b436961bf41d733c7346b59.png' alt='New Relic'/> [New Relic](http://newrelic.com) – Performance Monitoring
@@ -139,14 +142,15 @@ mcabreradev/number-formatter is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/number-formatter](https://github.com/mcabreradev/number-formatter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|427<br/>Tools used|11/14/23 <br/>Report generated|
+|432<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -832,9 +836,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (348)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (353)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (348)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (353)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -878,6 +882,7 @@ Full tech stack [here](/techstack.md)
 |[cac](https://www.npmjs.com/cac)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[camel-case](https://www.npmjs.com/camel-case)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|v1.2.1|08/16/17|Miguelangel Cabrera |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[cliui](https://www.npmjs.com/cliui)|v2.1.0|08/16/17|Miguelangel Cabrera |ISC|N/A|
 |[clone](https://www.npmjs.com/clone)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
@@ -981,7 +986,7 @@ Full tech stack [here](/techstack.md)
 |[gulp-git](https://www.npmjs.com/gulp-git)|v1.0.1|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[gulp-mocha](https://www.npmjs.com/gulp-mocha)|v2.0.0|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[gulp-tag-version](https://www.npmjs.com/gulp-tag-version)|v1.2.1|08/16/17|Miguelangel Cabrera |BSD-2-Clause|N/A|
-|[handlebars](https://www.npmjs.com/handlebars)|v4.0.10|08/16/17|Miguelangel Cabrera |MIT|[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.0.10|08/16/17|Miguelangel Cabrera |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2019-19919](https://github.com/advisories/GHSA-w457-6q6x-cgp9) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)<br/>[](https://github.com/advisories/GHSA-q42p-pg8m-cqh6) (High)<br/>[CVE-2019-20920](https://github.com/advisories/GHSA-3cqr-58rm-57f8) (High)<br/>[CVE-2019-20922](https://github.com/advisories/GHSA-62gr-4qp9-h98f) (High)<br/>[](https://github.com/advisories/GHSA-2cf5-4w76-r9qv) (High)<br/>[](https://github.com/advisories/GHSA-g9r4-xpmj-mj65) (High)<br/>[](https://github.com/advisories/GHSA-q2c6-c6pm-g3gh) (High)<br/>[](https://github.com/advisories/GHSA-6r5x-hmgg-7h53) (Moderate)<br/>[](https://github.com/advisories/GHSA-f52g-6jhx-586p) (Moderate)|
 |[hapi](https://www.npmjs.com/hapi)|N/A|08/16/17|Miguelangel Cabrera |BSD-3-Clause|N/A|
 |[has](https://www.npmjs.com/has)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[hat](https://www.npmjs.com/hat)|N/A|08/16/17|Miguelangel Cabrera |MIT,X11|N/A|
@@ -989,6 +994,7 @@ Full tech stack [here](/techstack.md)
 |[hoek](https://www.npmjs.com/hoek)|v2.16.3|08/16/17|Miguelangel Cabrera |BSD-3-Clause|[CVE-2018-3728](https://github.com/advisories/GHSA-jp4x-w63m-7wgm) (High)|
 |[http](https://www.npmjs.com/http)|N/A|08/16/17|Miguelangel Cabrera |BSD-2-Clause|N/A|
 |[https](https://www.npmjs.com/https)|N/A|08/16/17|Miguelangel Cabrera |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.13.3|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|08/16/17|Miguelangel Cabrera |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.15|08/16/17|Miguelangel Cabrera |MIT|N/A|
@@ -1038,6 +1044,7 @@ Full tech stack [here](/techstack.md)
 |[lab](https://www.npmjs.com/lab)|N/A|08/16/17|Miguelangel Cabrera |BSD-3-Clause|N/A|
 |[lazy-cache](https://www.npmjs.com/lazy-cache)|v1.0.4|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[left-pad](https://www.npmjs.com/left-pad)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v3.4.1|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[lodash.isarray](https://www.npmjs.com/lodash.isarray)|v3.0.4|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[lodash.isequal](https://www.npmjs.com/lodash.isequal)|v4.4.0|08/16/17|Miguelangel Cabrera |MIT|N/A|
@@ -1117,6 +1124,7 @@ Full tech stack [here](/techstack.md)
 |[rx](https://www.npmjs.com/rx)|N/A|08/16/17|Miguelangel Cabrera |Apache-2.0|N/A|
 |[s3](https://www.npmjs.com/s3)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.1|08/16/17|Miguelangel Cabrera |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v4.3.5|08/16/17|Miguelangel Cabrera |MIT|[CVE-2020-26226](https://github.com/advisories/GHSA-r2j6-p67h-q639) (High)|
 |[semistandard](https://www.npmjs.com/semistandard)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[send](https://www.npmjs.com/send)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
@@ -1141,6 +1149,7 @@ Full tech stack [here](/techstack.md)
 |[tape-run](https://www.npmjs.com/tape-run)|v2.1.3|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|08/16/17|Miguelangel Cabrera |ISC|N/A|
 |[temp](https://www.npmjs.com/temp)|v0.8.3|08/16/17|Miguelangel Cabrera |MIT|N/A|
+|[test](https://www.npmjs.com/test)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[through](https://www.npmjs.com/through)|N/A|08/16/17|Miguelangel Cabrera |MIT|N/A|
 |[through2](https://www.npmjs.com/through2)|v2.0.1|08/16/17|Miguelangel Cabrera |MIT|N/A|
@@ -1190,4 +1199,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
